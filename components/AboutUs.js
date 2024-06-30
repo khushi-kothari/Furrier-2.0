@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import React, { useState } from "react";
 
@@ -35,7 +36,8 @@ const AboutUs = ({ hide_var }) => {
             className="object-cover object-center rounded"
             alt="hero"
             src="/animals-bg.png"
-          ></img>
+            layout="fill"
+          />
         </div>
       </div>
     </section>
