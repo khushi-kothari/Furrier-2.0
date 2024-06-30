@@ -10,9 +10,10 @@ class Grid extends Component {
             <h2 className="mt-10 mb-4 text-2xl text-emerald-600 font-semibold">
               Vet
             </h2>
-            <p className="w-52 mx-auto">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod
+            <p className=" mx-auto">
+              Furrier connects pet owners with trusted local veterinarians,
+              ensuring comprehensive and timely medical care for pets through a
+              seamless API-driven platform.
             </p>
           </div>
           <div>
@@ -20,9 +21,10 @@ class Grid extends Component {
             <h2 className="mt-10 mb-4 text-2xl text-emerald-600 font-semibold">
               Trainers
             </h2>
-            <p className="w-52 mx-auto">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod
+            <p className="mx-auto">
+              Furrier offers access to professional pet trainers in your area,
+              providing personalized training programs to enhance your pet's
+              behavior and skills.
             </p>
           </div>
           <div>
@@ -30,9 +32,10 @@ class Grid extends Component {
             <h2 className="mt-10 mb-4 text-2xl text-emerald-600 font-semibold">
               Counsellors
             </h2>
-            <p className="w-52 mx-auto">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod
+            <p className="mx-auto">
+              Furrier links pet owners to experienced pet counsellors, offering
+              expert advice and support for addressing behavioral and emotional
+              issues in pets.
             </p>
           </div>
           <div>
@@ -40,9 +43,10 @@ class Grid extends Component {
             <h2 className="mt-10 mb-4 text-2xl text-emerald-600 font-semibold">
               Day Care
             </h2>
-            <p className="w-52 mx-auto">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod
+            <p className="mx-auto">
+              Furrier provides information on reliable pet day care centers,
+              ensuring your pet receives attentive care and engagement while
+              you’re away.
             </p>
           </div>
           <div>
@@ -50,9 +54,9 @@ class Grid extends Component {
             <h2 className="mt-10 mb-4 text-2xl text-emerald-600 font-semibold">
               Foster Care
             </h2>
-            <p className="w-52 mx-auto">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod
+            <p className=" mx-auto">
+              Furrier connects you with local foster care options, helping pets
+              find temporary loving homes and reducing the burden on shelters.
             </p>
           </div>
           <div>
@@ -60,9 +64,10 @@ class Grid extends Component {
             <h2 className="mt-10 mb-4 text-2xl text-emerald-600 font-semibold">
               Pet Sitters
             </h2>
-            <p className="w-52 mx-auto">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod
+            <p className=" mx-auto">
+              Furrier helps you find trusted pet sitters nearby, ensuring your
+              pet is well-cared for in the comfort of your home during your
+              absence.
             </p>
           </div>
           <div>
@@ -70,9 +75,9 @@ class Grid extends Component {
             <h2 className="mt-10 mb-4 text-2xl text-emerald-600 font-semibold">
               Pet Shops
             </h2>
-            <p className="w-52 mx-auto">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod
+            <p className=" mx-auto">
+              Furrier offers detailed information on local pet shops, providing
+              a convenient way to find all necessary pet supplies and products.
             </p>
           </div>
           <div>
@@ -80,9 +85,10 @@ class Grid extends Component {
             <h2 className="mt-10 mb-4 text-2xl text-emerald-600 font-semibold">
               Grooming Centers
             </h2>
-            <p className="w-52 mx-auto">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-              nonummy nibh euismod
+            <p className=" mx-auto">
+              Furrier connects you to top grooming centers in your area,
+              ensuring your pet looks and feels their best with professional
+              grooming services.
             </p>
           </div>
         </div>
